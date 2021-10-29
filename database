@@ -13,7 +13,7 @@ service_list:
   - httpd
   - mariadb
   
-roots_passwd: password
+ilgar_passwd: password
 
 firewall_services: 
   - http
